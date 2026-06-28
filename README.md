@@ -2,20 +2,27 @@
      SIDDH PATEL · GitHub Profile README
      Accent: Emerald #10B981  ·  Surface: #0D1117
      Badge style locked: style=for-the-badge, dark fill, emerald logo
-     PLACEHOLDERS TO SWAP are marked with  <!-- TODO -->
 ───────────────────────────────────────────────────────────── -->
 
+<!-- ───────────────────  HERO BANNER  ─────────────────── -->
 <div align="center">
 
-<a href="https://github.com/PatelSiddhManojkumar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1200&color=10B981&center=true&vCenter=true&width=620&height=70&lines=Backend+Developer;RAG+%26+LLM+Systems;Ship+code%2C+not+demos." alt="Backend Developer · RAG & LLM Systems · Ship code, not demos" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=190&section=header&text=Siddh%20Patel&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Backend-heavy%20AI%2FML%20engineer%20%C2%B7%20RAG%20%26%20LLM%20systems&descAlignY=56&descSize=16&animation=fadeIn" alt="Siddh Patel" width="100%" />
 
-### Backend-heavy AI/ML engineer shipping production systems people actually use.
+<a href="https://github.com/PatelSiddhManojkumar">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=10B981&center=true&vCenter=true&width=620&height=60&lines=Backend+Developer;RAG+%26+LLM+Systems;Ship+code%2C+not+demos." alt="Backend Developer · RAG & LLM Systems · Ship code, not demos" />
+</a>
 
 <br/>
 
+<!-- Hero metrics — the only emerald-filled badges, reserved for proof -->
+![Chitraksha](https://img.shields.io/badge/Chitraksha-100%2B_active_users-10B981?style=for-the-badge&labelColor=161B22)
+![EklavyaOS](https://img.shields.io/badge/EklavyaOS-45_daily_athletes-10B981?style=for-the-badge&labelColor=161B22)
+![Shipped](https://img.shields.io/badge/Production_systems-4_shipped-10B981?style=for-the-badge&labelColor=161B22)
+
 </div>
+
+<br/>
 
 <!-- ─────────────────────────  ABOUT  ───────────────────────── -->
 
@@ -77,10 +84,10 @@ I'm **Sid** — a B.Tech CSE (AI & Data Science) student at Parul University, Va
 
 | Project | What it does | Stack | Links |
 |:--|:--|:--|:--|
-| **Chitraksha** | Bilingual Hindi/Hinglish RAG mental-wellness companion for Indian students — **100+ active users** | Docling · Mistral OCR · FAISS · Phi-3.5-mini · FastAPI · Docker | [Live](https://chitraksha.vercel.app) · [Repo](https://github.com/PatelSiddhManojkumar/chitraksha-docs) |
-| **EklavyaOS** | Precision performance OS for elite ISSF shooters — CV scoring for 10m air rifle/pistol, **40–45 daily athletes** on the original scoring platform | Python · Computer Vision · FastAPI | `🔒 Private` |
+| **Chitraksha** | Bilingual Hindi/Hinglish RAG mental-wellness companion for Indian students — **100+ active users** | Docling · Mistral OCR · FAISS · Phi-3.5-mini · FastAPI · Docker | [`▶ Live`](https://chitraksha.vercel.app) · [`Repo`](https://github.com/PatelSiddhManojkumar/chitraksha-docs) |
+| **EklavyaOS** | Precision performance OS for elite ISSF shooters — CV scoring for 10m air rifle/pistol, **40–45 daily athletes** on the original scoring platform | Python · Computer Vision · FastAPI | [`▶ Live`](https://eklavyaos.com) |
 | **Hibiscus** | Hospital HR/LMS — four-role RBAC, attendance, Celery async email, Excel import/export, dockerized multi-service deploy | Django · PostgreSQL · Celery · Docker | `🔒 Private` |
-| **CareQueue** | Appointment booking system | Core PHP · MySQL | [Repo](https://github.com/PatelSiddhManojkumar/carequeue-appointment-booking) |
+| **CareQueue** | Appointment booking system | Core PHP · MySQL | [`Repo`](https://github.com/PatelSiddhManojkumar/carequeue-appointment-booking) |
 
 <br/>
 
@@ -89,7 +96,7 @@ I'm **Sid** — a B.Tech CSE (AI & Data Science) student at Parul University, Va
 ## ◢ Currently Building
 
 ```text
-▸ EklavyaOS frontend  — bringing the shooter scoring platform to a polished UI
+▸ EklavyaOS frontend  — polishing the shooter scoring platform UI on eklavyaos.com
 ▸ Multi-tenant CMS    — one backend, many isolated tenants
 ```
 
@@ -107,6 +114,11 @@ I'm **Sid** — a B.Tech CSE (AI & Data Science) student at Parul University, Va
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PatelSiddhManojkumar&hide_border=true&background=0D1117&stroke=161B22&ring=10B981&fire=10B981&currStreakLabel=10B981&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dayLabels=8b949e" alt="GitHub streak" />
+
+<br/><br/>
+
+<!-- Emerald contribution activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PatelSiddhManojkumar&bg_color=0D1117&color=10B981&line=10B981&point=ffffff&area=true&area_color=10B981&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
 <br/><br/>
 
@@ -147,6 +159,6 @@ I'm **Sid** — a B.Tech CSE (AI & Data Science) student at Parul University, Va
 
 `Vadodara, Gujarat, India`  ·  `English · Hindi · Gujarati`
 
-**— Ship code, not demos. —**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0D1117&height=110&section=footer&text=Ship%20code,%20not%20demos.&fontColor=ffffff&fontSize=20&fontAlignY=72&animation=fadeIn" alt="Ship code, not demos." width="100%" />
 
 </div>
