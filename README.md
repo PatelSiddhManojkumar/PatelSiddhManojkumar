@@ -4,10 +4,12 @@
      Badge style locked: style=for-the-badge, dark fill, emerald logo
 ───────────────────────────────────────────────────────────── -->
 
-<!-- ───────────────────  HERO BANNER  ─────────────────── -->
+<!-- ───────────────────  HERO  ─────────────────── -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:10B981&height=190&section=header&text=Siddh%20Patel&fontColor=ffffff&fontSize=52&fontAlignY=34&desc=Backend-heavy%20AI%2FML%20engineer%20%C2%B7%20RAG%20%26%20LLM%20systems&descAlignY=56&descSize=16&animation=fadeIn" alt="Siddh Patel" width="100%" />
+# Siddh Patel
+
+**Backend-heavy AI/ML engineer · RAG & LLM systems**
 
 <a href="https://github.com/PatelSiddhManojkumar">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=10B981&center=true&vCenter=true&width=620&height=60&lines=Backend+Developer;RAG+%26+LLM+Systems;Ship+code%2C+not+demos." alt="Backend Developer · RAG & LLM Systems · Ship code, not demos" />
@@ -159,6 +161,8 @@ I'm **Sid** — a B.Tech CSE (AI & Data Science) student at Parul University, Va
 
 `Vadodara, Gujarat, India`  ·  `English · Hindi · Gujarati`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,100:0D1117&height=110&section=footer&text=Ship%20code,%20not%20demos.&fontColor=ffffff&fontSize=20&fontAlignY=72&animation=fadeIn" alt="Ship code, not demos." width="100%" />
+<br/>
+
+### — Ship code, not demos. —
 
 </div>
