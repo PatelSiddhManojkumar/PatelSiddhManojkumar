@@ -77,10 +77,10 @@ I'm **Sid** — a B.Tech CSE (AI & Data Science) student at Parul University, Va
 
 | Project | What it does | Stack | Links |
 |:--|:--|:--|:--|
-| **Chitraksha** | Bilingual Hindi/Hinglish RAG mental-wellness companion for Indian students — **100+ active users** | Docling · Mistral OCR · FAISS · Phi-3.5-mini · FastAPI · Docker | [Live](https://chitraksha.vercel.app) · [Repo](https://github.com/PatelSiddhManojkumar/chitraksha) <!-- TODO: verify repo name --> |
-| **EklavyaOS** | Precision performance OS for elite ISSF shooters — CV scoring for 10m air rifle/pistol, **40–45 daily athletes** on the original scoring platform | Python · Computer Vision · FastAPI | [Repo](https://github.com/PatelSiddhManojkumar/eklavyaos) <!-- TODO: verify repo name --> |
-| **Hibiscus** | Hospital HR/LMS — four-role RBAC, attendance, Celery async email, Excel import/export, dockerized multi-service deploy | Django · PostgreSQL · Celery · Docker | [Repo](https://github.com/PatelSiddhManojkumar/hibiscus) <!-- TODO: verify repo name --> |
-| **CareQueue** | Appointment booking system | Core PHP · MySQL | [Repo](https://github.com/PatelSiddhManojkumar/carequeue) <!-- TODO: verify repo name --> |
+| **Chitraksha** | Bilingual Hindi/Hinglish RAG mental-wellness companion for Indian students — **100+ active users** | Docling · Mistral OCR · FAISS · Phi-3.5-mini · FastAPI · Docker | [Live](https://chitraksha.vercel.app) · [Repo](https://github.com/PatelSiddhManojkumar/chitraksha-docs) |
+| **EklavyaOS** | Precision performance OS for elite ISSF shooters — CV scoring for 10m air rifle/pistol, **40–45 daily athletes** on the original scoring platform | Python · Computer Vision · FastAPI | `🔒 Private` |
+| **Hibiscus** | Hospital HR/LMS — four-role RBAC, attendance, Celery async email, Excel import/export, dockerized multi-service deploy | Django · PostgreSQL · Celery · Docker | `🔒 Private` |
+| **CareQueue** | Appointment booking system | Core PHP · MySQL | [Repo](https://github.com/PatelSiddhManojkumar/carequeue-appointment-booking) |
 
 <br/>
 
